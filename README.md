@@ -1,24 +1,8 @@
 # Unity Code Snippets #
 Create Unity classes and methods easily. 
-Forked from [Kleber Silva.](https://github.com/kleber-swf/vscode-unity-code-snippets)
+Forked from [Cem Ugur Karacam](https://github.com/cemuka/vscode-unity-code-snippets)
 
-Changed bracket positions from this:
-
-```
-public class Foo {
-
-}
-```
-
-to this:
-
-```
-public class Foo 
-{
-
-}
-```
-
+Added some snippets important for Quiet Dimensions studio.
 
 ## All the snippets
 
